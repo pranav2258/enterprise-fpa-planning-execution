@@ -7,7 +7,7 @@ budgeting, a three-year long-range plan, variance analysis, driver-based
 modeling, scenario planning, machine-learning forecasting, NLP on management
 commentary, and executive reporting — end to end, in one repo.
 
-**Live app:** _add your Streamlit Community Cloud URL here once deployed_
+**Live app:** https://enterprise-fpa-planning-execution-gb6ddheynggmdzzux6kvib.streamlit.app/
 **Stack:** SAP-style synthetic data · SQL · Python · pandas · scikit-learn · Streamlit · Excel (openpyxl) · PowerPoint (pptxgenjs) · NLP (TF-IDF + KMeans)
 
 ---
