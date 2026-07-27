@@ -1,0 +1,4 @@
+scenario,rev_growth_delta,churn_delta,opex_growth_delta,description
+Base,0.0,0.0,0.0,Latest board-approved forecast trajectory.
+Upside,0.045,-0.006,0.015,Faster net-new logo growth + lower churn; opex flexes up to support delivery.
+Downside,-0.055,0.01,-0.02,Macro slowdown compresses new business and expands churn; discretionary opex cut in response.

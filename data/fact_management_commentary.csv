@@ -1,0 +1,71 @@
+fiscal_quarter,cost_center,commentary_text,authored_tone_label
+2023-Q1,CC100,"New logo bookings accelerated meaningfully, with enterprise deal sizes up double digits versus prior quarter; the recently hired enterprise AEs are ramping ahead of plan.",positive
+2023-Q1,CC200,"The team successfully reduced cloud infrastructure cost per customer through the optimization initiative, which should benefit gross margin going forward.",positive
+2023-Q1,CC300,"G&A headcount remained roughly flat quarter over quarter, consistent with our lean corporate function strategy.",neutral
+2023-Q1,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2023-Q1,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2023-Q2,CC100,Headcount in Sales & Marketing grew in line with plan as we continue to build out the EMEA go-to-market team.,neutral
+2023-Q2,CC200,R&D headcount grew as planned with the addition of the new APAC engineering hub.,neutral
+2023-Q2,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2023-Q2,CC400,Support ticket resolution times improved significantly following the rollout of the new knowledge base and staffing increase.,positive
+2023-Q2,CC500,"Cloud Operations achieved a notable reduction in hosting cost per transaction through the infrastructure consolidation project, supporting gross margin expansion.",positive
+2023-Q3,CC100,Headcount in Sales & Marketing grew in line with plan as we continue to build out the EMEA go-to-market team.,neutral
+2023-Q3,CC200,R&D headcount grew as planned with the addition of the new APAC engineering hub.,neutral
+2023-Q3,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2023-Q3,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2023-Q3,CC500,Cloud infrastructure spend tracked closely to plan this quarter with no material variances.,neutral
+2023-Q4,CC100,"Sales & Marketing exceeded pipeline generation targets this quarter, driven by strong performance in the Cloud Platform segment and improved conversion rates from the new outbound motion.",positive
+2023-Q4,CC200,"The team successfully reduced cloud infrastructure cost per customer through the optimization initiative, which should benefit gross margin going forward.",positive
+2023-Q4,CC300,"Professional fees exceeded plan due to additional legal costs associated with a customer contract dispute, now substantially resolved.",negative
+2023-Q4,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2023-Q4,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2024-Q1,CC100,"Sales & Marketing exceeded pipeline generation targets this quarter, driven by strong performance in the Cloud Platform segment and improved conversion rates from the new outbound motion.",positive
+2024-Q1,CC200,"Engineering attrition was elevated this quarter, requiring backfill hiring that pressured near-term productivity.",negative
+2024-Q1,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2024-Q1,CC400,"Customer Success drove a meaningful improvement in net revenue retention this quarter, aided by the new customer health-scoring model and proactive renewal outreach.",positive
+2024-Q1,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2024-Q2,CC100,"New logo bookings accelerated meaningfully, with enterprise deal sizes up double digits versus prior quarter; the recently hired enterprise AEs are ramping ahead of plan.",positive
+2024-Q2,CC200,R&D headcount grew as planned with the addition of the new APAC engineering hub.,neutral
+2024-Q2,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2024-Q2,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2024-Q2,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2024-Q3,CC100,"Sales & Marketing exceeded pipeline generation targets this quarter, driven by strong performance in the Cloud Platform segment and improved conversion rates from the new outbound motion.",positive
+2024-Q3,CC200,"The team continued incremental investment in the data platform roadmap, consistent with the approved budget.",neutral
+2024-Q3,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2024-Q3,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2024-Q3,CC500,"Cloud Operations achieved a notable reduction in hosting cost per transaction through the infrastructure consolidation project, supporting gross margin expansion.",positive
+2024-Q4,CC100,"New logo bookings accelerated meaningfully, with enterprise deal sizes up double digits versus prior quarter; the recently hired enterprise AEs are ramping ahead of plan.",positive
+2024-Q4,CC200,"The team successfully reduced cloud infrastructure cost per customer through the optimization initiative, which should benefit gross margin going forward.",positive
+2024-Q4,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2024-Q4,CC400,Renewal rates softened slightly in the Hardware & IoT segment as several large customers delayed procurement decisions amid budget freezes.,negative
+2024-Q4,CC500,"Cloud Operations achieved a notable reduction in hosting cost per transaction through the infrastructure consolidation project, supporting gross margin expansion.",positive
+2025-Q1,CC100,"New logo bookings accelerated meaningfully, with enterprise deal sizes up double digits versus prior quarter; the recently hired enterprise AEs are ramping ahead of plan.",positive
+2025-Q1,CC200,"The team successfully reduced cloud infrastructure cost per customer through the optimization initiative, which should benefit gross margin going forward.",positive
+2025-Q1,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2025-Q1,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2025-Q1,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2025-Q2,CC100,"New logo bookings accelerated meaningfully, with enterprise deal sizes up double digits versus prior quarter; the recently hired enterprise AEs are ramping ahead of plan.",positive
+2025-Q2,CC200,"Engineering attrition was elevated this quarter, requiring backfill hiring that pressured near-term productivity.",negative
+2025-Q2,CC300,"G&A headcount remained roughly flat quarter over quarter, consistent with our lean corporate function strategy.",neutral
+2025-Q2,CC400,Support ticket resolution times improved significantly following the rollout of the new knowledge base and staffing increase.,positive
+2025-Q2,CC500,Cloud infrastructure spend tracked closely to plan this quarter with no material variances.,neutral
+2025-Q3,CC100,The team completed a territory realignment this quarter; early results are inconclusive and we will monitor next quarter.,neutral
+2025-Q3,CC200,R&D headcount grew as planned with the addition of the new APAC engineering hub.,neutral
+2025-Q3,CC300,"Professional fees exceeded plan due to additional legal costs associated with a customer contract dispute, now substantially resolved.",negative
+2025-Q3,CC400,Support ticket resolution times improved significantly following the rollout of the new knowledge base and staffing increase.,positive
+2025-Q3,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2025-Q4,CC100,"Sales cycles lengthened this quarter as budget scrutiny increased among mid-market prospects, pushing several six-figure deals into next quarter.",negative
+2025-Q4,CC200,"The team continued incremental investment in the data platform roadmap, consistent with the approved budget.",neutral
+2025-Q4,CC300,"G&A headcount remained roughly flat quarter over quarter, consistent with our lean corporate function strategy.",neutral
+2025-Q4,CC400,Support ticket resolution times improved significantly following the rollout of the new knowledge base and staffing increase.,positive
+2025-Q4,CC500,Hosting costs ran above plan this quarter due to unplanned capacity additions ahead of a major customer go-live.,negative
+2026-Q1,CC100,Headcount in Sales & Marketing grew in line with plan as we continue to build out the EMEA go-to-market team.,neutral
+2026-Q1,CC200,"R&D shipped the new analytics module ahead of schedule, and engineering velocity metrics improved following the platform re-architecture completed last quarter.",positive
+2026-Q1,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2026-Q1,CC400,Customer Success headcount grew modestly to support the expanding subscription customer base.,neutral
+2026-Q1,CC500,"Cloud Operations achieved a notable reduction in hosting cost per transaction through the infrastructure consolidation project, supporting gross margin expansion.",positive
+2026-Q2,CC100,"Sales & Marketing exceeded pipeline generation targets this quarter, driven by strong performance in the Cloud Platform segment and improved conversion rates from the new outbound motion.",positive
+2026-Q2,CC200,R&D headcount grew as planned with the addition of the new APAC engineering hub.,neutral
+2026-Q2,CC300,"G&A completed the ERP system upgrade under budget, and finance close cycle time improved by two days as a result.",positive
+2026-Q2,CC400,Support ticket resolution times improved significantly following the rollout of the new knowledge base and staffing increase.,positive
+2026-Q2,CC500,"Cloud Operations achieved a notable reduction in hosting cost per transaction through the infrastructure consolidation project, supporting gross margin expansion.",positive

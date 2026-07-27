@@ -1,0 +1,5 @@
+profit_center,segment_name,segment_type
+PC10,Cloud Platform,Subscription
+PC20,Data Analytics,Subscription
+PC30,Professional Svcs,Services
+PC40,Hardware & IoT,Product

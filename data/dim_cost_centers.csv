@@ -1,0 +1,6 @@
+cost_center,department,function
+CC100,Sales & Marketing,S&M
+CC200,Research & Development,R&D
+CC300,General & Administrative,G&A
+CC400,Customer Success,S&M
+CC500,Cloud Operations (COGS),COGS

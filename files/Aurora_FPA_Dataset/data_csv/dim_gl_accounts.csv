@@ -1,0 +1,16 @@
+gl_account,account_name,account_group,pnl_category,normal_balance
+400000,Subscription Revenue,Revenue,Revenue,C
+400100,Services Revenue,Revenue,Revenue,C
+400200,Hardware Revenue,Revenue,Revenue,C
+500000,Hosting & Cloud Infra Cost,COGS,COGS,D
+500100,Third-Party License COGS,COGS,COGS,D
+500200,Support & Success Labor COGS,COGS,COGS,D
+600000,Salaries & Wages,Opex,Opex,D
+600100,Employee Benefits,Opex,Opex,D
+600200,Stock-Based Compensation,Opex,Opex,D
+610000,Marketing Programs,Opex,Opex,D
+620000,Travel & Entertainment,Opex,Opex,D
+630000,Software & IT Subscriptions,Opex,Opex,D
+640000,Facilities & Occupancy,Opex,Opex,D
+650000,Professional Fees,Opex,Opex,D
+660000,Depreciation & Amortization,Opex,Opex,D
